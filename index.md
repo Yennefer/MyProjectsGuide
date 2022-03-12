@@ -10,5 +10,5 @@ Here is the [repo](https://github.com/Yennefer/PostCreator) of this project. The
 [Here's](https://bitbucket.org/Maghelyen/vegcode) the app I wrote for our startup. It's pretty old and uses MVP pattern.
 
 ## 3. Some other projects I have made or contributed to in Google Play store:
-[UPC Connect](https://play.google.com/store/apps/details?id=ch.upc.connect.android.release&hl=en&gl=US)
-[NBCH JSC App](https://play.google.com/store/apps/details?id=ru.nbki.app)
+- [UPC Connect](https://play.google.com/store/apps/details?id=ch.upc.connect.android.release&hl=en&gl=US)
+- [NBCH JSC App](https://play.google.com/store/apps/details?id=ru.nbki.app)
