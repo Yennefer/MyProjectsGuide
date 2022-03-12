@@ -1,40 +1,14 @@
-## Welcome to GitHub Pages
+## 1. Post Creator
+This is the projects I made in 2019 as a test to join vk.com team. This is supposed to be a part of the social media app that would allow user to create custom picture to post on her feed.
+
+You can write and format the text message, select the background and smash some stickers on top. Then you can save the resulting image on your device. 
+Here is the [repo](https://github.com/Yennefer/PostCreator) of this project. There's nothing interesting in terms of architecture, but it showcases some work with UI.
 
 <iframe src="https://drive.google.com/file/d/1SaLkZBPrwwK7vI-jJNecWzgoJFT6AMBI/preview" width="640" height="480" allow="autoplay"></iframe>
 
+## 2. VegCode
+[Here's](https://bitbucket.org/Maghelyen/vegcode) the app I wrote for our startup. It's pretty old and uses MVP pattern.
 
-You can use the [editor on GitHub](https://github.com/Yennefer/MyProjectsGuide/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yennefer/MyProjectsGuide/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 3. Some other projects I have made or contributed to in Google Play store:
+[UPC Connect](https://play.google.com/store/apps/details?id=ch.upc.connect.android.release&hl=en&gl=US)
+[NBCH JSC App](https://play.google.com/store/apps/details?id=ru.nbki.app)
